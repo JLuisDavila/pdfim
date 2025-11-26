@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Formación Docente TAC</title>
+    <title>Las cámaras y las miradas</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -20,7 +20,7 @@
     </style>
 </head>
 <body>
-    <h1>Formación Docente TAC</h1>
-    <img src="formacion_docente_TAC.jpg" alt="Formación Docente TAC">
+    <h1>Cámaras y miradas</h1>
+    <img src="asd.png" alt="Formación Docente TAC">
 </body>
 </html>
